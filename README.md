@@ -1,3 +1,5 @@
-### He’s working on...
+#### Hi, I'm Zhen.
 
-[![A treemap of my recent coding languages](https://github-stats.lizhen.workers.dev/languages.svg?date=20231004)](https://github.com/li3zhen1/Github-Readme-Langugae-Treemap)
+I’m an MSCS student at Georgia Tech. I’m interested in visualization, human-computer interaction, learning programming languages and graphics.
+
+[lizhen.me](https://lizhen.me)
