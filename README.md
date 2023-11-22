@@ -1,4 +1,4 @@
-#### Hi, I'm Zhen.
+#### Hi, I’m Zhen.
 
 I’m interested in visualization, human-computer interaction, programming languages, typography and graphics.
 
